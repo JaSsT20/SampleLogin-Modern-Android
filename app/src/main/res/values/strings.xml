@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Chapter3-Login</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Levid</string>
+    <string name="toggle">Toggle Visibility Icon</string>
+    <string name="enter_name">Enter your name</string>
+    <string name="error">Error: No puede haber espacios.</string>
+    <string name="button">Sign in!</string>
+
+</resources>
